@@ -1,4 +1,5 @@
 ﻿CREATE proc [dbo].[test] 
+--second line with comment
 as
 select * from sam where id between 50 and 100
 
